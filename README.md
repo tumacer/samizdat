@@ -1,4 +1,3 @@
-file:///xtank/xtank_sync/samizdat_work/README.md
 # samizdat: 3dp Defense SuperPAC
 brought to you by d33pthought
 
